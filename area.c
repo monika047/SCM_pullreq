@@ -8,3 +8,5 @@ void main()
         area=pi*r*r;
 	printf("the area of the circle for given radius is:%f",area);
 }
+      #include <stdio.h>
+void main()   
