@@ -14,3 +14,6 @@ int main() {
 
 break;
 return(0);
+#include <stdio.h>
+int main() {
+   int year;
