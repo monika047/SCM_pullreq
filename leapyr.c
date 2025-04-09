@@ -12,8 +12,8 @@ int main() {
 
 
 
-break;
-return(0);
+brea
+return(0
 
 if (year % 400 == 0) {
       printf("%d is a leap year.", year);
@@ -21,3 +21,11 @@ if (year % 400 == 0) {
    else if (year % 4 == 0) {
       printf("%d is a leap year.", year);
    }
+
+#include <stdio.h>
+int main() {
+   int ye>>>
+
+
+
+ 
